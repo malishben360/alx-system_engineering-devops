@@ -1,0 +1,2 @@
+#!/bin/bash
+grep "PATH" /etc/environment | wc -l
